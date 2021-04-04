@@ -1,0 +1,6 @@
+D:\C#\mouse-hook\MouseHook\bin\Debug\MouseHook.dll
+D:\C#\mouse-hook\MouseHook\bin\Debug\MouseHook.pdb
+D:\C#\mouse-hook\MouseHook\obj\Debug\MouseHook.csprojAssemblyReference.cache
+D:\C#\mouse-hook\MouseHook\obj\Debug\MouseHook.csproj.CoreCompileInputs.cache
+D:\C#\mouse-hook\MouseHook\obj\Debug\MouseHook.dll
+D:\C#\mouse-hook\MouseHook\obj\Debug\MouseHook.pdb

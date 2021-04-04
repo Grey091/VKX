@@ -1,0 +1,4 @@
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\LowLevelMouseHook\MouseHook\bin\Release\MouseHook.dll
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\LowLevelMouseHook\MouseHook\bin\Release\MouseHook.pdb
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\LowLevelMouseHook\MouseHook\obj\Release\MouseHook.dll
+C:\Users\Eric\Documents\Visual Studio 2013\Projects\LowLevelMouseHook\MouseHook\obj\Release\MouseHook.pdb
